@@ -8,4 +8,5 @@ It should also start in the first line.
 import os # unused, comment is missing white space
 
 def camelCase():
-  pass
+  UPPER_CASE_VAR = None
+  
